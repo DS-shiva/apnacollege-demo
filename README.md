@@ -1,4 +1,4 @@
 # apnacollege-demo
-Author - Shradha Khapra
+Author - Shradha (Apna college)
 <br>
 Basis HTML
